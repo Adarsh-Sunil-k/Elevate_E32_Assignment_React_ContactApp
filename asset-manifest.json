@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Elevate_E32_Assignment_React_ContactApp/static/css/main.9f205fe8.css",
+    "main.js": "/Elevate_E32_Assignment_React_ContactApp/static/js/main.91d1ee48.js",
+    "static/js/453.36794867.chunk.js": "/Elevate_E32_Assignment_React_ContactApp/static/js/453.36794867.chunk.js",
+    "index.html": "/Elevate_E32_Assignment_React_ContactApp/index.html",
+    "main.9f205fe8.css.map": "/Elevate_E32_Assignment_React_ContactApp/static/css/main.9f205fe8.css.map",
+    "main.91d1ee48.js.map": "/Elevate_E32_Assignment_React_ContactApp/static/js/main.91d1ee48.js.map",
+    "453.36794867.chunk.js.map": "/Elevate_E32_Assignment_React_ContactApp/static/js/453.36794867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f205fe8.css",
+    "static/js/main.91d1ee48.js"
+  ]
+}
